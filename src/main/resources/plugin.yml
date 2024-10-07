@@ -1,0 +1,4 @@
+name: TransientEnchantments
+version: '${project.version}'
+main: de.phyx.transientenchantments.TransientEnchantments
+api-version: '1.21'

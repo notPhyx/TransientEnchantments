@@ -1,0 +1,4 @@
+de\phyx\transientenchantments\logic\EventLogic.class
+de\phyx\transientenchantments\logic\EnchantmentAPI.class
+de\phyx\transientenchantments\TransientEnchantments.class
+de\phyx\transientenchantments\interfaces\Enchantment.class
